@@ -6,6 +6,7 @@ title-chinese:
 img-name: ''
 img-alt: ''
 author: Yan Ting
-excerpt: ''
+excerpt: Excerpt.
 permalink: "/iffr"
 ---
+What a body!
