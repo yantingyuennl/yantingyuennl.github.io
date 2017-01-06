@@ -2,7 +2,7 @@
     <div class="grid">
       {% assign work = site.work | last %}
         <a class="grid-item work" href="/work/" style=
-        "background:white;width:{{page.work-size}}vw;height:{{page.work-size}}vh;"><img height="auto"
+        "background:white;width:{{page.work-size}}vw;height:{{page.work-size}}vh;bottom:{{page.work-bottom}}vh;right:{{page.work-right}}vw;"><img height="auto"
         src="/img/{{work.img-name | remove:"img/"}}" width="100%">
         <div class="sub">
             <span>{{work.title}}</span>
@@ -10,19 +10,19 @@
 
         {% assign news = site.news | last %}
         <a class="grid-item blog" href="/news/" style=
-        "background:white;width:{{page.news-size}}vw;height:{{page.news-size}}vh;"><img height="auto"
+        "background:white;width:{{page.news-size}}vw;height:{{page.news-size}}vh;top:{{page.blog-top}}vh;right:{{page.blog-right}}vw;"><img height="auto"
         src="/img/{{news.img-name | remove:"img/"}}" width="100%">
         <div class="sub">
             <span>{{news.title}}</span>
         </div></a>
         <a class="grid-item bio" href="/bio/" style=
-        "background:white;width:{{page.bio-size}}vw;height:{{page.bio-size}}vh;"><img height="auto"
+        "background:white;width:{{page.bio-size}}vw;height:{{page.bio-size}}vh;top:{{page.bio-bottom}}vh;right:{{page.bio-left}}vw;"><img height="auto"
         src="/img/{{page.bio-img | remove:"img/"}}" width="100%">
         <div class="sub">
             <span>About Yan Ting</span>
         </div></a>
         <a class="grid-item work_second" href="/contact/" style=
-        "background:white;width:{{page.contact-size}}vw;height:{{page.contact-size}}vh;"><img height="auto"
+        "background:white;width:{{page.contact-size}}vw;height:{{page.contact-size}}vh;top:{{page.contact-bottom}}vh;right:{{page.contact-right}}vw;"><img height="auto"
         src="/img/{{page.contact-img | remove:"img/"}}" width="100%">
         <div class="sub">
             <span>Contact</span>
