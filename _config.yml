@@ -32,7 +32,6 @@ bg-url: /img/bg_alt.svg
 # Default settings
 defaults:
   - scope:
-      path: ""
       type: work
     values:
       author: Yan Ting
@@ -44,7 +43,6 @@ defaults:
       copyright_country_year: Yan Ting Yuen (2017), Netherlands
   -
     scope:
-      path: ""
       type: news
     values:
       layout: news
@@ -54,7 +52,7 @@ defaults:
       img-alt: ""
       author: Yan Ting
       excerpt: ""
-  
+
 
 # Build settings
 markdown: kramdown
