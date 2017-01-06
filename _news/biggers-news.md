@@ -7,5 +7,5 @@ img-name: ''
 img-alt: ''
 author: Yan Ting
 excerpt: ''
-permalink: ''
+permalink: biggernews
 ---
