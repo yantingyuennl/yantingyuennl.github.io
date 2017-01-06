@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<link href="/css/page.css" rel="stylesheet">
+
+<section class="container animated fadeIn">
+  <div class="contents">
+    <h2> {{page.title}} <i class="chinese">{{ page.title-chinese }}</i></h2>
+    {% if page.img-name %}
+    <img src="/img/{{page.img-name | remove:"img/"}}" alt="{{page.img-alt}}"/>
+    {% endif %}
+    {{ content }}
+
+  </div>
+</section>
