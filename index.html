@@ -8,7 +8,7 @@ layout: home
       {% assign work = site.work | last %}
         <a class="grid-item work" href="{{work.permalink}}" style=
         "background:white;width:24vw;height:14vh;"><img height="auto"
-        src="/img/{{work.img-name}}" width="100%">
+        src="/img/{{work.img-name | remove:"img/"}}" width="100%">
         <div class="sub">
             <span>{{work.title}}</span>
         </div></a>
@@ -16,7 +16,7 @@ layout: home
         {% assign news = site.news | last %}
         <a class="grid-item blog" href="{{news.permalink}}" style=
         "background:white;width:12vw;height:12vh;"><img height="auto"
-        src="/img/{{news.img-name}}" width="100%">
+        src="/img/{{news.img-name | remove:"img/"}}" width="100%">
         <div class="sub">
             <span>{{news.title}}</span>
         </div></a>
