@@ -42,8 +42,6 @@ defaults:
       img-alt: ""
       vimeo: https://player.vimeo.com/video/
       copyright_country_year: Yan Ting Yuen (2017), Netherlands
-      permalink: ""  #write the url you want
-      
   -
     scope:
       path: ""
@@ -56,7 +54,6 @@ defaults:
       img-alt: ""
       author: Yan Ting
       excerpt: ""
-      permalink: ""
 
 # Build settings
 markdown: kramdown
