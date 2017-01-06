@@ -2,10 +2,11 @@
 title: Biggers news
 date: '2017-01-06 13:07:28'
 layout: news
-title-chinese: 
+title-chinese: ''
 img-name: ''
-img-alt: ''
+img-alt: fgh
 author: Yan Ting
-excerpt: ''
+excerpt: fghfgh
 permalink: biggernews
 ---
+fghfgh
