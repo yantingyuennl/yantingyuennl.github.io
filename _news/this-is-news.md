@@ -2,7 +2,7 @@
 title: This is news
 date: '2017-01-06 00:00:00'
 layout: news
-title-chinese:
+title-chinese: 
 img-name: ''
 img-alt: ''
 author: Yan Ting
