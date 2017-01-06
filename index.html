@@ -1,38 +1,8 @@
 ---
-title: 
+title:
 layout: default
 bio-img: "/img/container_bio.png"
 contact-img: "/img/container_work.png"
 ---
 
-<section class="container animated fadeIn">
-    <div class="grid">
-      {% assign work = site.work | last %}
-        <a class="grid-item work" href="{{work.permalink}}" style=
-        "background:white;width:24vw;height:14vh;"><img height="auto"
-        src="/img/{{work.img-name | remove:"img/"}}" width="100%">
-        <div class="sub">
-            <span>{{work.title}}</span>
-        </div></a>
-
-        {% assign news = site.news | last %}
-        <a class="grid-item blog" href="{{news.permalink}}" style=
-        "background:white;width:12vw;height:12vh;"><img height="auto"
-        src="/img/{{news.img-name | remove:"img/"}}" width="100%">
-        <div class="sub">
-            <span>{{news.title}}</span>
-        </div></a>
-        <a class="grid-item bio" href="/bio/" style=
-        "background:white;width:12vw;height:12vh;"><img height="auto"
-        src="/img/{{page.bio-img | remove:"img/"}}" width="100%">
-        <div class="sub">
-            <span>About Yan Ting</span>
-        </div></a>
-        <a class="grid-item work_second" href="/contact/" style=
-        "background:white;width:13vw;height:13vh;"><img height="auto"
-        src="/img/{{page.contact-img | remove:"img/"}}" width="100%">
-        <div class="sub">
-            <span>Contact</span>
-        </div></a>
-    </div>
-</section>
+{% include home.html %}
