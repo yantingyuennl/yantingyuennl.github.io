@@ -41,7 +41,6 @@ defaults:
       img-alt: ""
       vimeo: https://player.vimeo.com/video/
       copyright_country_year: Yan Ting Yuen (2017), Netherlands
-      permalink: :title
   -
     scope:
       type: news
@@ -53,7 +52,6 @@ defaults:
       img-alt: ""
       author: Yan Ting
       excerpt: ""
-      permalink: :title
 
 
 # Build settings
@@ -64,10 +62,10 @@ gems:
 collections:
   work:
     output: true
-    permalink: /:path/
+    permalink: /:path/:title/
   news:
     output: true
-    permalink: /:path/
+    permalink: /:path/:title/
 exclude:
   - Gemfile
   - Gemfile.lock
