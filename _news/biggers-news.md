@@ -7,6 +7,5 @@ img-name: ''
 img-alt: fgh
 author: Yan Ting
 excerpt: fghfgh
-permalink: biggernews
 ---
 fghfgh
