@@ -54,7 +54,7 @@ defaults:
       img-alt: ""
       author: Yan Ting
       excerpt: ""
-  -
+  
 
 # Build settings
 markdown: kramdown
