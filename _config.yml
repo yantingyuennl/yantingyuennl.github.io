@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Yan Ting Yuen
+title: YAN TING YUEN
 email: yantingyuen@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -28,33 +28,6 @@ copyright: 2017 Yan Ting Yuen
 copyright_chinese: 袁欣婷
 
 bg-url: /img/bg_alt.svg
-
-# Default settings
-defaults:
-  - scope:
-      path: ""
-      type: work
-    values:
-      author: Yan Ting
-      layout: work-title
-      title: ""
-      img-name: ""
-      img-alt: ""
-      vimeo: https://player.vimeo.com/video/
-      copyright_country_year: Yan Ting Yuen (2017), Netherlands
-
-  -
-    scope:
-      path: ""
-      type: news
-    values:
-      layout: news
-      title: ""
-      title-chinese:
-      img-name: ""
-      img-alt: ""
-      author: Yan Ting
-      excerpt: ""
 
 
 # Build settings
