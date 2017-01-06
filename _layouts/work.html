@@ -5,7 +5,7 @@ layout: default
 <section class="container animated fadeIn">
   <div class="contents">
     {{ content }}
-    {% for work-item in site.work %}
+    {% for work-item in site.work reversed %}
       <a href="{{ work-item.permalink }}"><img src="/img/{{ work-item.img-name | remove:"img/" }}" alt="{{ work-item.img-alt }}"/><div class="sub"><span>{{ work-item.title }}</span></div></a>
     {% endfor %}
   </div>
