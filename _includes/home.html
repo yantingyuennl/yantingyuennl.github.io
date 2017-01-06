@@ -1,7 +1,7 @@
 <section class="container animated fadeIn">
     <div class="grid">
       {% assign work = site.work | last %}
-        <a class="grid-item work" href="{{work.permalink}}" style=
+        <a class="grid-item work" href="/work/" style=
         "background:white;width:24vw;height:14vh;"><img height="auto"
         src="/img/{{work.img-name | remove:"img/"}}" width="100%">
         <div class="sub">
@@ -9,7 +9,7 @@
         </div></a>
 
         {% assign news = site.news | last %}
-        <a class="grid-item blog" href="{{news.permalink}}" style=
+        <a class="grid-item blog" href="/news/" style=
         "background:white;width:12vw;height:12vh;"><img height="auto"
         src="/img/{{news.img-name | remove:"img/"}}" width="100%">
         <div class="sub">
