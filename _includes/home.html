@@ -2,7 +2,7 @@
     <div class="grid">
 
       {% assign work = site.work | last %}
-        <a class="grid-item work" id="draggable" href="/work/" style=
+        <a class="grid-item work draggable" id="" href="/work/" style=
         "background:white;width:{{page.work-size}}vw;height:{{page.work-size}}vh;bottom:{{page.work-bottom}}vh;right:{{page.work-right}}vw;"><img height="auto"
         src="/img/{{work.img-name | remove:"img/"}}" width="100%">
         <div class="sub">
@@ -10,21 +10,21 @@
         </div></a>
 
         {% assign news = site.news | last %}
-        <a class="grid-item blog" id="draggable" href="/news/" style=
+        <a class="grid-item blog draggable" id="" href="/news/" style=
         "background:white;width:{{page.news-size}}vw;height:{{page.news-size}}vh;top:{{page.blog-top}}vh;right:{{page.blog-right}}vw;"><img height="auto"
         src="/img/{{news.img-name | remove:"img/"}}" width="100%">
         <div class="sub">
             <span>{{news.title}}</span>
         </div></a>
 
-        <a class="grid-item bio" id="draggable" href="/bio/" style=
+        <a class="grid-item bio draggable" id="" href="/bio/" style=
         "background:white;width:{{page.bio-size}}vw;height:{{page.bio-size}}vh;top:{{page.bio-bottom}}vh;left:{{page.bio-left}}vw;"><img height="auto"
         src="/img/{{page.bio-img | remove:"img/"}}" width="100%">
         <div class="sub">
             <span>About Yan Ting</span>
         </div></a>
 
-        <a class="grid-item work_second" id="draggable" href="/contact/" style=
+        <a class="grid-item work_second draggable" id="" href="/contact/" style=
         "background:white;width:{{page.contact-size}}vw;height:{{page.contact-size}}vh;bottom:{{page.contact-bottom}}vh;right:{{page.contact-right}}vw;"><img height="auto"
         src="/img/{{page.contact-img | remove:"img/"}}" width="100%">
         <div class="sub">
