@@ -7,6 +7,6 @@ img-name: img/Schermafbeelding%202015-06-30%20om%2012.58.15-3.png
 img-alt: The three lives of my father
 author: Yan Ting
 excerpt: Short first paragraph of news.
-permalink: "/create-unique-url/"
+permalink: "/sample-news/"
 ---
 Full text of news.
