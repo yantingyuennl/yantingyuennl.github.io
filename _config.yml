@@ -23,7 +23,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yantingyuennl.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: yantingyuen
 facebook_username: yanting.yuen
-imdb_url:
+imdb_url: http://www.imdb.com/name/nm1211089/
 copyright: 2017 Yan Ting Yuen
 copyright_chinese: 袁欣婷
 
