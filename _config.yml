@@ -65,10 +65,10 @@ gems:
 collections:
   work:
     output: true
-    permalink: /:path/
+    permalink: /:title/
   news:
     output: true
-    permalink: /:path/
+    permalink: /:title/
 exclude:
   - Gemfile
   - Gemfile.lock
