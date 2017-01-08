@@ -1,5 +1,6 @@
 <section class="container animated fadeIn">
     <div class="grid">
+
       {% assign work = site.work | last %}
         <a class="grid-item work" id="draggable" href="/work/" style=
         "background:white;width:{{page.work-size}}vw;height:{{page.work-size}}vh;bottom:{{page.work-bottom}}vh;right:{{page.work-right}}vw;"><img height="auto"
@@ -15,17 +16,20 @@
         <div class="sub">
             <span>{{news.title}}</span>
         </div></a>
+
         <a class="grid-item bio" id="draggable" href="/bio/" style=
         "background:white;width:{{page.bio-size}}vw;height:{{page.bio-size}}vh;top:{{page.bio-bottom}}vh;left:{{page.bio-left}}vw;"><img height="auto"
         src="/img/{{page.bio-img | remove:"img/"}}" width="100%">
         <div class="sub">
             <span>About Yan Ting</span>
         </div></a>
+
         <a class="grid-item work_second" id="draggable" href="/contact/" style=
         "background:white;width:{{page.contact-size}}vw;height:{{page.contact-size}}vh;bottom:{{page.contact-bottom}}vh;right:{{page.contact-right}}vw;"><img height="auto"
         src="/img/{{page.contact-img | remove:"img/"}}" width="100%">
         <div class="sub">
             <span>Contact</span>
         </div></a>
+
     </div>
 </section>
