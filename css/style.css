@@ -216,14 +216,21 @@ padding-right:10vw;
 }
 .bio {
 	position:absolute;
-
+  display:inline-block;
 	bottom:34vh;
 	left:12vw;
 }
 .blog {
 	position:absolute;
+  display:inline-block;
 	margin-top:20vh;
 	right:50vw;
+}
+.work_second {
+	position:absolute;
+  display:inline-block;
+	bottom:32vh;
+	right:22vw;
 }
 aside {
   font-size:0.8em;
@@ -236,11 +243,6 @@ hr {
   margin-bottom:6vh;
   width:16%;
 
-}
-.work_second {
-	position:absolute;
-	bottom:32vh;
-	right:22vw;
 }
 /* ---- custom ---- */
 i.icono-cross {
@@ -339,7 +341,7 @@ text-align:center;
 
     }
     .work_second {
-    
+
     }
     .contents img {
     	margin-top:2vh;
