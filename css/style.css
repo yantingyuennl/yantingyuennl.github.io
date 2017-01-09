@@ -188,6 +188,8 @@ padding-right:10vw;
 
 .grid-item {
   float: left;
+  display:flex;
+  justify-content: center;
   width: 100px;
   height: 100px;
   -moz-transition: all .5s linear;
