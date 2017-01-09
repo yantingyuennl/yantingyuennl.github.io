@@ -7,10 +7,10 @@ layout: default
   <div class="contents">
   {% for news-item in site.news reversed %}
     <div>
-      <a href="{{ news-item.permalink }}" style="text-decoration: none"><h2>{{ news-item.title }}<i class="chinese">{{ news-item.title-chinese }}</i></h2></a>
+      <a href="{{ news-item.url }}" style="text-decoration: none"><h2>{{ news-item.title }}<i class="chinese">{{ news-item.title-chinese }}</i></h2></a>
       <img src="/img/{{ news-item.img-name | remove:"img/"}}" alt="{{ news-item.img-alt }}"/>
       <p>{{ news-item.excerpt }}</p>
-      <p><a href="{{ news-item.permalink }}">Read More...</a></p>
+      <p><a href="{{ news-item.url }}">Read More...</a></p>
 
       <aside>Posted on {{ news-item.date | date_to_string}} by {{news-item.author}}</aside><hr />
     </div>
