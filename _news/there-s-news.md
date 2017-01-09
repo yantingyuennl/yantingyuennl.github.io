@@ -1,6 +1,6 @@
 ---
 title: There's news
-date: '2017-01-09 07:17:36'
+date: '2017-01-09 00:00:00'
 layout: news
 title-chinese: 
 img-name: img/Schermafbeelding%202015-06-30%20om%2012.58.15-8.png

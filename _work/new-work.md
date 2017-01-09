@@ -1,6 +1,6 @@
 ---
 title: New work
-date: '2017-01-09 07:53:00'
+date: '2017-01-09 00:00:00'
 author: Yan Ting
 layout: work-title
 img-name: ''
