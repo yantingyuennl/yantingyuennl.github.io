@@ -33,6 +33,16 @@ body {
 	margin-top:5vh;
 	margin-bottom:5vh;
 }
+.contents p > img{
+  width:100%;
+  display:flex;
+  justify-content: center;
+}
+.contents p img {
+  height:auto;
+  max-width:720px;
+  text-align: center;
+}
 p {
 	line-height:1.5em;
 	text-align:left;
