@@ -11,5 +11,5 @@ excerpt: Ex
 body b[od yo](http//nu.nl)b  body b_od y_bod y**ob bod**y BODy
 
 > fgfg
-
-![]({{ site.baseurl }}/img/Schermafbeelding%202015-06-30%20om%2012.58.15%20(1)-1.jpg)
+> 
+> <img src="{{ site.baseurl }}/img/Schermafbeelding%202015-06-30%20om%2012.58.15%20(1)-2.jpg">
