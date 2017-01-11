@@ -1,11 +1,11 @@
 ---
-title: Test
+title: This is news
 date: '2017-01-11 00:00:00'
 layout: news
 title-chinese: 
 img-name: img/Schermafbeelding 2015-06-30 om 12.58.15-12.png
-img-alt: Test
+img-alt: This is a description
 author: Yan Ting
-excerpt: Excp
+excerpt: This is an intro.
 ---
-body
+This is the body.
