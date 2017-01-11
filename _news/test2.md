@@ -8,9 +8,7 @@ img-alt: ''
 author: Yan Ting
 excerpt: Ex
 ---
-body b[od yo](http//nu.nl)b  body b_od y_bod y**ob bod**y BODy  
-
-<iframe width="100%" height="auto" src="https://www.youtube.com/embed/woZflhiwJ6Y" frameborder="0" allowfullscreen="">&amp;lt;/div&amp;gt;</iframe>
+body b[od yo](http//nu.nl)b  body b_od y_bod y**ob bod**y BODy
 
 > fgfg
 
