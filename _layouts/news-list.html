@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<link href="/css/work-title.css" rel="stylesheet">
+
+<section class="container animated fadeIn">
+  <div class="contents">
+  {% for news-item in site.news reversed %}
+    <div>
+      <a href="{{ news-item.url }}" style="text-decoration: none"><h2>{{ news-item.title }}<i class="chinese">{{ news-item.title-chinese }}</i></h2></a>
+      <img src="{{ news-item.upload-image}}" alt="{{ news-item.img-alt }}"/>
+      <p>{{ news-item.excerpt }}</p>
+      <p><a href="{{ news-item.url }}">Read More...</a></p>
+
+      <aside>Posted on {{ news-item.date | date_to_string}} by {{news-item.author}}</aside><hr />
+    </div>
+  {% endfor %}
+  </div>
+</section>

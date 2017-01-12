@@ -1,0 +1,64 @@
+---
+title: Yan Ting
+timezone: UTC
+collections:
+  news:
+    title: News
+    output: true
+    permalink: "/:title/"
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+  work:
+    title: Work
+    output: true
+    permalink: "/:title/"
+defaults:
+- scope:
+    path: ''
+    type: work
+  values:
+    author: Yan Ting
+    layout: work-title
+    title: ''
+    upload-image: ''
+    img-alt: ''
+    vimeo: ''
+    copyright_country_year: Yan Ting Yuen (2017), Netherlands
+- scope:
+    path: ''
+    type: news
+  values:
+    layout: news
+    title: ''
+    title-chinese: 
+    upload-image: ''
+    img-alt: ''
+    author: Yan Ting
+    excerpt: ''
+email: yantingyuen@gmail.com
+description: 'Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for Google search
+  results) and in your feed.xml site description.
+
+'
+baseurl: 
+url: https://yantingyuennl.github.io/
+twitter_username: yantingyuen
+facebook_username: yanting.yuen
+imdb_url: http://www.imdb.com/name/nm1211089/
+copyright: 2017 Yan Ting Yuen
+copyright_chinese: 袁欣婷
+bg-image: "/img/bg_alt.svg"
+favicon-png-image: "/uploads/favicon.png"
+markdown: kramdown
+gems:
+- jekyll-feed
+exclude:
+- Gemfile
+- Gemfile.lock
+- node_modules
+- gulpfile.js
