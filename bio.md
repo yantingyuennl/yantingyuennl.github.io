@@ -11,4 +11,4 @@ I was born in Hong Kong, China. At the age of 6 my parents moved to Europe, to o
 
 In the end I became a film maker, not a restaurant owner. 
 
-I like telling stories. Stories that make you laugh, stories that make you cry. The stories that I like to see in the cinema, or on TV, binging away. Those are the stories I like to tell. 
+I like telling stories. Stories that make you laugh, stories that make you cry. The stories that I like to see myself in the cinema, or on TV, binging away. Those are the stories I like to tell. 
