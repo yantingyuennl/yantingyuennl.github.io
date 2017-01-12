@@ -6,7 +6,7 @@
 }
 html,
 body {
-	background-image:url('{{ site.bg-url }}');
+	background-image:url('{{ site.bg-image }}');
 				background-size:72%;
 				background-position:center center;
 				background-repeat:no-repeat;
