@@ -2,12 +2,15 @@
 title: Previous work
 date: 2017-01-12 10:26:00 Z
 categories:
-- documentary
+- documentaire
 - film
-- japan
-- novelist
+- boeddhisme
+- china
 tags:
-- Murakami
+- temple
+- putuoshan
+- utrecht
+- Boeddhistische tempel
 upload-image: "/uploads/Mr-HU_A4.jpg"
 img-alt: Omschrijving
 vimeo: 166625940
