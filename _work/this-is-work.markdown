@@ -13,7 +13,7 @@ tags:
 - Boeddhistische tempel
 upload-image: "/uploads/Mr-HU_A4.jpg"
 img-alt: Omschrijving
-vimeo: 166625940
+vimeo: https://vimeo.com/166625940
 copyright_country_year: Yan Ting Yuen, 2015, The Netherlands
 ---
 
