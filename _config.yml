@@ -34,7 +34,7 @@ defaults:
   values:
     layout: news
     title: ''
-    title-chinese:
+    title-chinese: 
     upload-image: ''
     img-alt: ''
     author: Yan Ting
@@ -53,7 +53,7 @@ imdb_url: http://www.imdb.com/name/nm1211089/
 copyright: 2017 Yan Ting Yuen
 copyright_chinese: 袁欣婷
 bg-image: "/img/bg_alt.svg"
-favicon: ""
+favicon: ''
 markdown: kramdown
 gems:
 - jekyll-feed
