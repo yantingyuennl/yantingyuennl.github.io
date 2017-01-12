@@ -39,6 +39,19 @@ a {
 a:hover {
 	color:#000;
 
+
+}
+span {
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  /* ...and now for the proper property */
+  transition:.5s;
+}
+a:hover span {
+  color:#000;
+  border-bottom:1px solid #414141;;
 }
 img{
     -khtml-user-select: none;
