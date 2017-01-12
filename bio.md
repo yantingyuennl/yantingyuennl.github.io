@@ -3,7 +3,7 @@ title: Bio
 date: 2017-01-12 20:37:00 Z
 permalink: "/bio/"
 title-chinese: 袁欣婷
-upload-image: "/uploads/_V5A1979%20(2).jpg"
+upload-image: "/uploads/yanting-4ef4c1.jpg"
 img-alt: Yan Ting Yuen
 layout: page
 ---
