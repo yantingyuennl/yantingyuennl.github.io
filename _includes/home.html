@@ -4,7 +4,7 @@
       {% assign work = site.work | last %}
         <a class="grid-item work draggable" id="" href="/work/" style=
         "background:white;width:{{page.work-size}}vw;height:{{page.work-size}}vh;top:{{page.work-top}}vh;right:{{page.work-right}}vw;"><img height="auto"
-        src="/img/{{work.upload-image}}" width="100%">
+        src="{{work.upload-image}}" width="100%">
         <div class="sub">
             <span>{{work.title}}</span>
         </div></a>
@@ -12,21 +12,21 @@
         {% assign news = site.news | last %}
         <a class="grid-item blog draggable" id="" href="/news/" style=
         "background:white;width:{{page.news-size}}vw;height:{{page.news-size}}vh;top:{{page.blog-top}}vh;right:{{page.blog-right}}vw;"><img height="auto"
-        src="/img/{{news.upload-image}}" width="100%">
+        src="{{news.upload-image}}" width="100%">
         <div class="sub">
             <span>{{news.title}}</span>
         </div></a>
 
         <a class="grid-item bio draggable" id="" href="/bio/" style=
         "background:white;width:{{page.bio-size}}vw;height:{{page.bio-size}}vh;top:{{page.bio-bottom}}vh;left:{{page.bio-left}}vw;"><img height="auto"
-        src="/img/{{page.bio-image}}" width="100%">
+        src="{{page.bio-image}}" width="100%">
         <div class="sub">
             <span>About Yan Ting</span>
         </div></a>
 
         <a class="grid-item work_second draggable" id="" href="/contact/" style=
         "background:white;width:{{page.contact-size}}vw;height:{{page.contact-size}}vh;bottom:{{page.contact-bottom}}vh;right:{{page.contact-right}}vw;"><img height="auto"
-        src="/img/{{page.contact-image}}" width="100%">
+        src="{{page.contact-image}}" width="100%">
         <div class="sub">
             <span>Contact</span>
         </div></a>

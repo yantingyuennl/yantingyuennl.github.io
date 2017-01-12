@@ -7,7 +7,7 @@ layout: default
   <div class="contents">
     {{ content }}
     {% for work-item in site.work reversed %}
-      <a href="{{ work-item.url }}"><img src="/img/{{ work-item.upload-image}}" alt="{{ work-item.img-alt }}"/><div class="sub"><span>{{ work-item.title }}</span></div></a>
+      <a href="{{ work-item.url }}"><img src="{{ work-item.upload-image}}" alt="{{ work-item.img-alt }}"/><div class="sub"><span>{{ work-item.title }}</span></div></a>
     {% endfor %}
   </div>
 </section>
