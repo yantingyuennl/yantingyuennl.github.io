@@ -3,7 +3,7 @@ title: Bio
 permalink: "/bio/"
 layout: page
 title-chinese: 袁欣婷
-img-name: img/Yanting-6.jpg
+name-image: img/Yanting-6.jpg
 img-alt: Yan Ting Yuen
 ---
 

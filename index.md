@@ -1,8 +1,8 @@
 ---
 title: Home
 layout: main
-bio-img: img/Yanting-5.jpg
-contact-img: "/img/container_work.png"
+bio-image: img/Yanting-5.jpg
+contact-image: "/img/container_work.png"
 bio-size: 12
 contact-size: 12
 work-size: 22
@@ -16,4 +16,3 @@ bio-left: 12
 contact-bottom: 32
 contact-right: 22
 ---
-
