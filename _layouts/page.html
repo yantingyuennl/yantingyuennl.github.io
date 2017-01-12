@@ -8,7 +8,7 @@ layout: default
   <div class="contents">
     <h2> {{page.title}} <i class="chinese">{{ page.title-chinese }}</i></h2>
     {% if page.img-name %}
-    <img src="/img/{{page.name-image | remove:"img/"}}" alt="{{page.img-alt}}"/>
+    <img src="/img/{{page.upload-image}}" alt="{{page.img-alt}}"/>
     {% endif %}
     {{ content }}
 
