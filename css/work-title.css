@@ -30,6 +30,7 @@ body {
 	text-align:center;
 	margin:0 auto;
 	height:40vh;
+  max-width:60vw;
 	width:auto;
 	margin-top:5vh;
 	margin-bottom:5vh;
