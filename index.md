@@ -1,7 +1,7 @@
 ---
 title: Home
 bio-image: "/uploads/Yanting.jpg"
-contact-image: "/img/container_work.png"
+contact-image: "/uploads/Schermafbeelding%202015-10-10%20om%2020.34.57.png"
 bio-size: 12
 contact-size: 12
 work-size: 22
