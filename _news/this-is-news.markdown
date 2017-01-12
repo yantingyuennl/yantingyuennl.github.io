@@ -1,6 +1,14 @@
 ---
 title: This is news
 date: 2017-01-12 10:25:00 Z
+categories:
+- filmfestival
+- premiere
+tags:
+- documentary
+- IFFR
+- festival
+- award
 upload-image: "/uploads/still%207.png"
 img-alt: Three lives..
 excerpt: Korte intro
