@@ -5,4 +5,4 @@ permalink: "/contact/"
 layout: contact
 ---
 
-<p>body.</p>
+Hallo
