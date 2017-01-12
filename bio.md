@@ -7,4 +7,4 @@ img-alt: Yan Ting Yuen
 layout: page
 ---
 
-<p>This is my bio. Typen.</p><p><br></p>
+<p>This is **my** bio. [Ty](http://)pen.</p><p><br></p>
