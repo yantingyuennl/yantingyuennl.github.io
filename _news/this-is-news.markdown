@@ -1,7 +1,7 @@
 ---
 title: This is news
 date: 2017-01-12 10:25:00 Z
-upload-image: "/uploads/still%201.png"
+upload-image: "/uploads/still%207.png"
 img-alt: Three lives..
 excerpt: Korte intro.
 ---
