@@ -1,7 +1,6 @@
 ---
 title: Home
-layout: main
-bio-image: img/Yanting-5.jpg
+bio-image: "/uploads/Yanting.jpg"
 contact-image: "/img/container_work.png"
 bio-size: 12
 contact-size: 12
@@ -15,5 +14,6 @@ bio-bottom: 34
 bio-left: 10
 contact-bottom: 28
 contact-right: 20
+layout: main
 ---
 
