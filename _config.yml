@@ -34,7 +34,7 @@ defaults:
   values:
     layout: news
     title: ''
-    title-chinese:
+    title-chinese: 
     name-image: ''
     img-alt: ''
     author: Yan Ting
