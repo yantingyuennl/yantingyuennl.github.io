@@ -14,8 +14,9 @@ collections:
     output: true
   work:
     title: Work
-    output: true
+    output: false
     permalink: "/:title/"
+    Field name: hallo
 defaults:
 - scope:
     path: ''
