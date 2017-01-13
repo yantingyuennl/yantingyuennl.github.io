@@ -16,6 +16,7 @@ collections:
     title: Work
     output: true
     permalink: "/:title/"
+    work: more work
 defaults:
 - scope:
     path: ''
