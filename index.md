@@ -1,7 +1,7 @@
 ---
 title: Home
 bio-image: "/uploads/yanting-4ef4c1.jpg"
-contact-image: "/uploads/71UkpKLNiWL._SL1320_.jpg"
+contact-image: "/uploads/rode-stip-1H1Ap2OX.jpg"
 bio-size: 12
 contact-size: 12
 work-size: 22
