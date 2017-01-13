@@ -2,7 +2,7 @@
 title: Yan Ting
 timezone: UTC
 collections:
-  news:
+  new:
     title: New
     output: true
     permalink: "/:title/"
