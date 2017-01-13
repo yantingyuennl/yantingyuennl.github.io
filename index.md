@@ -1,6 +1,6 @@
 ---
 title: Home
-bio-image: "/uploads/_V5A1979%20(2).jpg"
+bio-image: "/uploads/yanting-4ef4c1.jpg"
 contact-image: "/uploads/press-here.jpg"
 bio-size: 12
 contact-size: 12
