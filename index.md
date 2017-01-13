@@ -5,7 +5,7 @@ contact-image: "/uploads/rode-stip-1H1Ap2OX.jpg"
 bio-size: 10
 contact-size: 8
 work-size: 12
-news-size: 30
+news-size: 35
 work-top: 14
 work-right: 16
 blog-top: 20
