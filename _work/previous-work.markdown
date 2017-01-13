@@ -1,6 +1,10 @@
 ---
 title: Previous work
 date: 2017-01-12 10:26:00 Z
+categories:
+- japan
+- writer
+- documentary
 tags:
 - murakami
 - japan
