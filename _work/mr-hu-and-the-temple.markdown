@@ -7,4 +7,4 @@ copyright_country_year: Yan Ting Yuen, China-Europe Docsalon, 2015, The Netherla
 Field name: 
 ---
 
-Trailer, Chinese spoken, Dutch subtitled
+Trailer, Mandarin spoken, Dutch subtitled
