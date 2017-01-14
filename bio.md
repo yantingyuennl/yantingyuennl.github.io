@@ -1,5 +1,5 @@
 ---
-title: Documentary film director
+title: bio
 date: 2017-01-12 20:37:00 Z
 permalink: "/bio/"
 upload-image: "/uploads/yanting-4ef4c1.jpg"
