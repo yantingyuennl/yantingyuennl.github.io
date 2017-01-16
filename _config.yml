@@ -42,7 +42,7 @@ defaults:
     excerpt: ''
     homepage: ''
 email: yantingyuen (at) gmail.com
-description: ''
+description: 
 baseurl: 
 mobile: 10
 url: https://yantingyuennl.github.io/
