@@ -25,9 +25,10 @@ defaults:
     layout: work-title
     title: ''
     upload-image: ''
-    img-description: ''
+    image-description: ''
     vimeo: ''
     copyright_country_year: Yan Ting Yuen (2017), Netherlands
+    homepage: ''
 - scope:
     path: ''
     type: news
@@ -36,16 +37,26 @@ defaults:
     title: ''
     title-chinese: 
     upload-image: ''
-    img-description: ''
+    image-description: ''
     author: Yan Ting
     excerpt: ''
+    homepage: ''
 email: yantingyuen (at) gmail.com
+<<<<<<< HEAD
+description: ''
+baseurl:
+mobile: 10
+=======
 description: 'Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
 
 '
 baseurl: 
+<<<<<<< Updated upstream
+=======
+>>>>>>> origin/master
+>>>>>>> Stashed changes
 url: https://yantingyuennl.github.io/
 twitter_username: yantingyuen
 facebook_username: yanting.yuen

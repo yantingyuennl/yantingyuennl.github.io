@@ -1,31 +1,34 @@
 <section class="container animated fadeIn">
     <div class="grid empty">
       <!-- remove:"img/"}} -->
-      {% assign work = site.work | last %}
+      {% for work in site.work %}
+       {% if work.homepage %}
         <a class="grid-item work draggable" id="" href="{{work.url}}" style=
-        "background:white;width:{{page.work-size}}%;height:{{page.work-size}}%;top:{{page.work-top}}%;right:{{page.work-right}}%;"><img height="auto"
+        "background:white;width:{{page.work-size}}%;height:{{page.work-size}}%;top:{{page.work-top}}%;left:{{page.work-left}}%;"><img height="auto"
         src="{{work.upload-image}}" width="100%">
         <div class="sub">
             <span>{{work.title}}</span>
         </div></a>
+        {% endif %}
+        {% endfor %}
 
         {% assign news = site.news | last %}
         <a class="grid-item blog draggable" id="" href="{{news.url}}" style=
-        "background:white;width:{{page.news-size}}%;height:{{page.news-size}}%;top:{{page.blog-top}}%;left:{{page.blog-left}}%;"><img height="auto"
+        "background:white;width:{{page.blog-size}}%;height:{{page.news-size}}%;top:{{page.blog-top}}%;left:{{page.blog-left}}%;"><img height="auto"
         src="{{news.upload-image}}" width="100%">
         <div class="sub">
             <span>{{news.title}}</span>
         </div></a>
 
         <a class="grid-item bio draggable" id="" href="/bio/" style=
-        "background:white;width:{{page.bio-size}}%;height:{{page.bio-size}}%;top:{{page.bio-bottom}}%;left:{{page.bio-left}}%;"><img height="auto"
+        "background:white;width:{{page.bio-size}}%;height:{{page.bio-size}}%;top:{{page.bio-top}}%;left:{{page.bio-left}}%;"><img height="auto"
         src="{{page.bio-image}}" width="100%">
         <div class="sub">
             <span>About Yan Ting</span>
         </div></a>
 
         <a class="grid-item work_second draggable" id="" href="/contact/" style=
-        "background:white;width:{{page.contact-size}}%;height:{{page.contact-size}}%;bottom:{{page.contact-bottom}}%;right:{{page.contact-right}}%;"><img height="auto"
+        "background:white;width:{{page.contact-size}}%;height:{{page.contact-size}}%;top:{{page.contact-top}}%;left:{{page.contact-left}}%;"><img height="auto"
         src="{{page.contact-image}}" width="100%">
         <div class="sub">
             <span>Contact</span>

@@ -173,7 +173,7 @@ nav ul li:first-child {
 
 .container {
   width: 100%;
-  height:100%;
+  height:960px;
   z-index: 1;
   padding-top:100px;
   padding-bottom:100px;
@@ -205,7 +205,6 @@ padding-right:24px;
 
 .grid-item {
 
-
   -moz-transition: all .5s linear;
      -webkit-transition: all .5s linear;
      transition: all .5s linear;
@@ -217,6 +216,10 @@ padding-right:24px;
        user-select: none;
 }
 .grid a{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 	text-decoration:none;
 	color:#414141;
 	-o-transition:.3s;
@@ -225,10 +228,12 @@ padding-right:24px;
   -webkit-transition:.3s;
   /* ...and now for the proper property */
   transition:.3s;
+
 }
 .grid a:hover {
 	opacity:0.56;
 }
+
 .work {
 	position:absolute;
 	display:inline-block;
@@ -346,18 +351,24 @@ text-align:center;
     .sub {
     padding-top:4px;
     }
+    .grid a {
+
+    }
     .work {
 
+      margin-top:{{ site.mobile }}%;
     }
     .bio {
 
-
+      margin-top:{{ site.mobile }}%;
     }
     .blog {
 
+      margin-top:{{ site.mobile }}%;
     }
     .work_second {
 
+      margin-top:{{ site.mobile }}%;
     }
     .contents img {
     	margin-top:2vh;
