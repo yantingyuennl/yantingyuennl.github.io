@@ -35,7 +35,7 @@ defaults:
   values:
     layout: news
     title: ''
-    title-chinese:
+    title-chinese: 
     upload-image: ''
     image-description: ''
     author: Yan Ting
@@ -43,10 +43,8 @@ defaults:
     homepage: ''
 email: yantingyuen (at) gmail.com
 description: ''
-baseurl:
+baseurl: 
 mobile: 10
-description: ''
-baseurl:
 url: https://yantingyuennl.github.io/
 twitter_username: yantingyuen
 facebook_username: yanting.yuen
