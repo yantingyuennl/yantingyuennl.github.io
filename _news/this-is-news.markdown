@@ -1,5 +1,5 @@
 ---
-title: news
+title: My Father's Choice selected for IFFR 2017
 date: 2017-01-12 10:25:00 Z
 categories:
 - filmfestival
