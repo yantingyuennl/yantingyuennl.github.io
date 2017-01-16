@@ -12,13 +12,16 @@
         {% endif %}
         {% endfor %}
 
-        {% assign news = site.news | last %}
+        {% for news in site.news %}
+         {% if news.homepage %}
         <a class="grid-item blog draggable" id="" href="{{news.url}}" style=
         "background:white;width:{{page.blog-size}}%;height:{{page.news-size}}%;top:{{page.blog-top}}%;left:{{page.blog-left}}%;"><img height="auto"
         src="{{news.upload-image}}" width="100%">
         <div class="sub">
             <span>{{news.title}}</span>
         </div></a>
+        {% endif %}
+        {% endfor %}
 
         <a class="grid-item bio draggable" id="" href="/bio/" style=
         "background:white;width:{{page.bio-size}}%;height:{{page.bio-size}}%;top:{{page.bio-top}}%;left:{{page.bio-left}}%;"><img height="auto"
