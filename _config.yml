@@ -28,22 +28,20 @@ defaults:
     image-description: ''
     vimeo: ''
     copyright_country_year: Yan Ting Yuen (2017), Netherlands
-    homepage: ''
 - scope:
     path: ''
     type: news
   values:
     layout: news
     title: ''
-    title-chinese: 
+    title-chinese:
     upload-image: ''
     image-description: ''
     author: Yan Ting
     excerpt: ''
-    homepage: ''
 email: yantingyuen (at) gmail.com
-description: 
-baseurl: 
+description:
+baseurl:
 mobile: 10
 url: https://yantingyuennl.github.io/
 twitter_username: yantingyuen
