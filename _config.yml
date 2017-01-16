@@ -34,14 +34,14 @@ defaults:
   values:
     layout: news
     title: ''
-    title-chinese:
+    title-chinese: 
     upload-image: ''
     image-description: ''
     author: Yan Ting
     excerpt: ''
 email: yantingyuen (at) gmail.com
-description:
-baseurl:
+description: 
+baseurl: 
 mobile: 10
 url: https://yantingyuennl.github.io/
 twitter_username: yantingyuen
