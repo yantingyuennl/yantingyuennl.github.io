@@ -51,6 +51,10 @@
             // Disable all other buttons
             $('.jPushMenuBtn').not($(this)).toggleClass('disabled');
 
+          
+
+
+
             return;
         });
 
@@ -74,9 +78,14 @@
         // Close menu on clicking menu link
         if (o.closeOnClickLink) {
             $('.cbp-spmenu a').on('click',function() {
+
                 jPushMenu.close(o);
+
+
             });
         }
+
+
     };
 
    /*
