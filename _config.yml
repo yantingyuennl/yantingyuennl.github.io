@@ -25,7 +25,7 @@ defaults:
     layout: work-title
     title: ''
     upload-image: ''
-    img-alt: ''
+    img-description: ''
     vimeo: ''
     copyright_country_year: Yan Ting Yuen (2017), Netherlands
 - scope:
@@ -34,9 +34,9 @@ defaults:
   values:
     layout: news
     title: ''
-    title-chinese: 
+    title-chinese:
     upload-image: ''
-    img-alt: ''
+    img-description: ''
     author: Yan Ting
     excerpt: ''
 email: yantingyuen (at) gmail.com
@@ -45,7 +45,7 @@ description: 'Write an awesome description for your new site here. You can edit 
   results) and in your feed.xml site description.
 
 '
-baseurl: 
+baseurl:
 url: https://yantingyuennl.github.io/
 twitter_username: yantingyuen
 facebook_username: yanting.yuen
