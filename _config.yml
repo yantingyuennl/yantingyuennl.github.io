@@ -34,7 +34,7 @@ defaults:
   values:
     layout: news
     title: ''
-    title-chinese:
+    title-chinese: 
     upload-image: ''
     img-description: ''
     author: Yan Ting
@@ -45,7 +45,7 @@ description: 'Write an awesome description for your new site here. You can edit 
   results) and in your feed.xml site description.
 
 '
-baseurl:
+baseurl: 
 url: https://yantingyuennl.github.io/
 twitter_username: yantingyuen
 facebook_username: yanting.yuen
