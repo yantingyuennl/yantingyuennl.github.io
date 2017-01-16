@@ -1,31 +1,37 @@
 <section class="container animated fadeIn">
     <div class="grid empty">
       <!-- remove:"img/"}} -->
-      {% assign work = site.work | last %}
+      {% for work in site.work | where: "homepage", "yes" %}
+       {% if work.homepage %}
         <a class="grid-item work draggable" id="" href="{{work.url}}" style=
-        "background:white;width:{{page.work-size}}vw;height:{{page.work-size}}vh;top:{{page.work-top}}vh;right:{{page.work-right}}vw;"><img height="auto"
+        "background:white;width:{{page.work-size}}%;height:{{page.work-size}}%;top:{{page.work-top}}%;left:{{page.work-left}}%;"><img height="auto"
         src="{{work.upload-image}}" width="100%">
         <div class="sub">
             <span>{{work.title}}</span>
         </div></a>
+        {% endif %}
+        {% endfor %}
 
-        {% assign news = site.news | last %}
+        {% for news in site.news %}
+         {% if news.homepage %}
         <a class="grid-item blog draggable" id="" href="{{news.url}}" style=
-        "background:white;width:{{page.news-size}}vw;height:{{page.news-size}}vh;top:{{page.blog-top}}vh;left:{{page.blog-left}}vw;"><img height="auto"
+        "background:white;width:{{page.blog-size}}%;height:{{page.news-size}}%;top:{{page.blog-top}}%;left:{{page.blog-left}}%;"><img height="auto"
         src="{{news.upload-image}}" width="100%">
         <div class="sub">
             <span>{{news.title}}</span>
         </div></a>
+        {% endif %}
+        {% endfor %}
 
         <a class="grid-item bio draggable" id="" href="/bio/" style=
-        "background:white;width:{{page.bio-size}}vw;height:{{page.bio-size}}vh;top:{{page.bio-bottom}}vh;left:{{page.bio-left}}vw;"><img height="auto"
+        "background:white;width:{{page.bio-size}}%;height:{{page.bio-size}}%;top:{{page.bio-top}}%;left:{{page.bio-left}}%;"><img height="auto"
         src="{{page.bio-image}}" width="100%">
         <div class="sub">
             <span>About Yan Ting</span>
         </div></a>
 
         <a class="grid-item work_second draggable" id="" href="/contact/" style=
-        "background:white;width:{{page.contact-size}}vw;height:{{page.contact-size}}vh;bottom:{{page.contact-bottom}}vh;right:{{page.contact-right}}vw;"><img height="auto"
+        "background:white;width:{{page.contact-size}}%;height:{{page.contact-size}}%;top:{{page.contact-top}}%;left:{{page.contact-left}}%;"><img height="auto"
         src="{{page.contact-image}}" width="100%">
         <div class="sub">
             <span>Contact</span>

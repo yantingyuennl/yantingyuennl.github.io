@@ -2,18 +2,18 @@
 title: Home
 bio-image: "/uploads/yanting-4ef4c1.jpg"
 contact-image: "/uploads/rode-stip-1H1Ap2OX.jpg"
-bio-size: 8
-contact-size: 8
 work-size: 12
-news-size: 30
-work-top: 14
-work-right: 16
+work-top: 24
+work-left: 70
+blog-size: 20
 blog-top: 20
-blog-left: 35
-bio-bottom: 34
+blog-left: 36
+bio-size: 10
+bio-top: 36
 bio-left: 10
-contact-bottom: 28
-contact-right: 20
+contact-size: 8
+contact-top: 68
+contact-left: 72
 layout: main
 ---
 
