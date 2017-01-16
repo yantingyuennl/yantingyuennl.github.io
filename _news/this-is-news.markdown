@@ -1,5 +1,5 @@
 ---
-title: new
+title: news
 date: 2017-01-12 10:25:00 Z
 categories:
 - filmfestival
