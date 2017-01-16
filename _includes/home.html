@@ -2,7 +2,7 @@
     <div class="grid empty">
       <!-- remove:"img/"}} -->
       {% for work in site.work %}
-       {% if work.homepage > 0 %}
+       {% if work.homepage.value = "yes" %}
         <a class="grid-item work draggable" id="" href="{{work.url}}" style=
         "background:white;width:{{page.work-size}}%;height:{{page.work-size}}%;top:{{page.work-top}}%;left:{{page.work-left}}%;"><img height="auto"
         src="{{work.upload-image}}" width="100%">
@@ -13,7 +13,7 @@
         {% endfor %}
 
         {% for news in site.news %}
-         {% if news.homepage > 0 %}
+         {% if news.homepage.value = "yes" %}
         <a class="grid-item blog draggable" id="" href="{{news.url}}" style=
         "background:white;width:{{page.blog-size}}%;height:{{page.news-size}}%;top:{{page.blog-top}}%;left:{{page.blog-left}}%;"><img height="auto"
         src="{{news.upload-image}}" width="100%">
