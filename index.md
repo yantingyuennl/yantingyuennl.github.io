@@ -2,7 +2,7 @@
 title: Home
 bio-image: "/uploads/yanting-4ef4c1.jpg"
 contact-image: "/uploads/rode-stip-1H1Ap2OX.jpg"
-work-size: 12
+work-size: 14
 work-top: 24
 work-left: 70
 blog-size: 20
