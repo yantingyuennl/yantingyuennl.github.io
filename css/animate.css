@@ -1240,6 +1240,21 @@
   animation-name: fadeIn;
 }
 
+@keyframes fadeIn09 {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 0.9;
+  }
+}
+
+.fadeIn {
+  -webkit-animation-name: fadeIn;
+  animation-name: fadeIn;
+}
+
 @-webkit-keyframes fadeInDown {
   from {
     opacity: 0;

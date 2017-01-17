@@ -1,5 +1,5 @@
 ---
-title: Yan Ting
+title: Yan Ting Yuen
 timezone: UTC
 collections:
   news:
@@ -28,7 +28,6 @@ defaults:
     image-description: ''
     vimeo: ''
     copyright_country_year: Yan Ting Yuen (2017), Netherlands
-    homepage: ''
 - scope:
     path: ''
     type: news
@@ -40,9 +39,8 @@ defaults:
     image-description: ''
     author: Yan Ting
     excerpt: ''
-    homepage: ''
 email: yantingyuen (at) gmail.com
-description: ''
+description: 
 baseurl: 
 mobile: 10
 url: https://yantingyuennl.github.io/

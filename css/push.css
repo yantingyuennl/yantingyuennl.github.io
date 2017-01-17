@@ -106,3 +106,24 @@
        -moz-transition: all 0.3s ease-in-out;
             transition: all 0.3s ease-in-out;
 }
+
+/* Custom */
+.disBtn{
+  opacity:0;
+}
+.enCross{
+  opacity:1;
+}
+.showPanel{
+  opacity:1;
+}
+.icono-hamburger {
+  opacity: 1;
+}
+.icono-cross{
+
+
+  left: -9999px;
+  z-index: 899;
+  transition: all 0.2s ease;
+}
