@@ -9,7 +9,7 @@ tags:
 - IFFR
 - festival
 - award
-upload-image: "/uploads/still%207.png"
+upload-image: "/uploads/still%207.jpg"
 img-alt: Three lives..
 ---
 
