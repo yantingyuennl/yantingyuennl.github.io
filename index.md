@@ -1,7 +1,7 @@
 ---
 title: Home
 bio-image: "/uploads/yanting-4ef4c1.jpg"
-contact-image: "/uploads/red-glossy-dot-clip-art-at-clker-com-vector-clip-art-online-royalty-Gefbyd-clipart.png"
+contact-image: "/uploads/rode-stip-1H1Ap2OX.jpg"
 work-size: 12
 work-top: 24
 work-left: 70
