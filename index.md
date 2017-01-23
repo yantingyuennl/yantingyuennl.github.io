@@ -1,7 +1,7 @@
 ---
 title: Home
 bio-image: "/uploads/yanting-4ef4c1.jpg"
-contact-image: "/uploads/red-glossy-dot-clip-art-at-clker-com-vector-clip-art-online-royalty-Gefbyd-clipart.png"
+contact-image: "/uploads/119498475589498995button-red_benji_park_01.svg.med.png"
 work-size: 12
 work-top: 24
 work-left: 70
