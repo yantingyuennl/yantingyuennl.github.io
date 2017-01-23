@@ -1,6 +1,6 @@
 ---
 title: Home
-bio-image: "/uploads/yanting-4ef4c1.jpg"
+bio-image: "/uploads/58862774ba9cf2272a65b016.jpg"
 contact-image: "/uploads/1000px-Red_star.svg.png"
 work-size: 12
 work-top: 24
