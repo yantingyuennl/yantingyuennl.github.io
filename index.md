@@ -11,7 +11,7 @@ blog-left: 36
 bio-size: 10
 bio-top: 36
 bio-left: 10
-contact-size: 8
+contact-size: 6
 contact-top: 68
 contact-left: 72
 layout: main
