@@ -6,4 +6,4 @@ homepage: 'yes'
 img-alt: IFFR
 ---
 
-First look at filmposter of 'My Father's Choice', just premiered at IFFR 2017 with fully packed screenings.
+The filmposter of 'My Father's Choice', just premiered at IFFR 2017 with fully packed screenings.
