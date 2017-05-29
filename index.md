@@ -5,7 +5,7 @@ contact-image: "/uploads/1000px-Red_star.svg.png"
 work-size: 12
 work-top: 24
 work-left: 70
-blog-size: 20
+blog-size: 40
 blog-top: 20
 blog-left: 36
 bio-size: 10
