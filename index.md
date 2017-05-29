@@ -1,7 +1,7 @@
 ---
 title: Home
 bio-image: "/uploads/58862774ba9cf2272a65b016.jpg"
-contact-image: "/uploads/press-here.jpg"
+contact-image: "/uploads/rode-stip-1H1Ap2OX.jpg"
 work-size: 12
 work-top: 24
 work-left: 70
