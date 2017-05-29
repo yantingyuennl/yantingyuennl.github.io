@@ -1,5 +1,5 @@
 ---
-title: the secret of hema. click for trailer
+title: the secret of hema. trailer
 date: 2017-01-13 11:23:00 Z
 upload-image: "/uploads/Poster%20Het%20Geheim%20van%20de%20HEMA%20.jpeg"
 vimeo: 95844303
