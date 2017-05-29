@@ -1,5 +1,5 @@
 ---
-title: De Keuze van van mijn Vader, in de NL bioscopen
+title: De Keuze van van mijn Vader, in de Nederlandse bioscopen
 date: 2017-05-29 08:12:00 Z
 ---
 
