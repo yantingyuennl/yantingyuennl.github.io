@@ -1,5 +1,5 @@
 ---
-title: 'previous: mr. hu and the temple'
+title: 'previous: mr. hu and the temple. trailer'
 date: 2017-01-13 11:37:00 Z
 upload-image: "/uploads/Mr-HU_A4-ae460e-337370.jpg"
 vimeo: 199443218
