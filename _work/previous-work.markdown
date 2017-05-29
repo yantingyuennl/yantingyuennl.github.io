@@ -1,5 +1,5 @@
 ---
-title: dinner with murakami
+title: dinner with murakami, full movie
 date: 2017-01-12 10:26:00 Z
 categories:
 - japan
