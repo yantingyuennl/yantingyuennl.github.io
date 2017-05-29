@@ -1,6 +1,6 @@
 ---
-title: De Keuze van van mijn Vader, in de Nederlandse bioscopen/ My Father's Choice
-  in the Dutch cinema's
+title: 'News: De Keuze van van mijn Vader, in de Nederlandse bioscopen/ My Father''s
+  Choice in the Dutch cinema''s'
 date: 2017-05-29 08:12:00 Z
 upload-image: "/uploads/still%204.png"
 homepage: 'yes'
