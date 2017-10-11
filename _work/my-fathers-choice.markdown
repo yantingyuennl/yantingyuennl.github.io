@@ -8,4 +8,4 @@ homepage:
   'yes': 
 ---
 
-A film about my father. About life and choices. 
+A film about my father. About life and choices. How the life of my family is inseparably tied into the greater history of China and Hongkong.
