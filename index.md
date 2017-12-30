@@ -14,7 +14,7 @@ contact-size: 12
 bio-size: 12
 contact-top: 68
 contact-left:
-- 
+- 68
 layout: main
 ---
 
