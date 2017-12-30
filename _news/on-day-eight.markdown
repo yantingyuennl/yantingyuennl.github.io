@@ -1,6 +1,9 @@
 ---
 title: On Day Eight
 date: 2017-10-09 12:35:00 Z
+tags:
+- financial crisis
+- '2008'
 upload-image: "/uploads/Schermafbeelding%202017-12-09%20om%2013.04.48.png"
 homepage: 'yes'
 ---
