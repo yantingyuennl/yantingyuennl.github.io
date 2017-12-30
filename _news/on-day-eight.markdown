@@ -5,6 +5,7 @@ tags:
 - financial crisis
 - '2008'
 upload-image: "/uploads/Schermafbeelding%202017-12-09%20om%2013.04.48.png"
+homepage: 'yes'
 ---
 
 Working full swing on newest project 'On Day Eight', about the pivotal week in 2008 when the financial crisis hit the European continent. A thriller documentary film in which the politicians and central bankers explain, how they resolved the crisis. But did they really succeed?
