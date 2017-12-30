@@ -1,7 +1,7 @@
 ---
 title: On Day Eight
 date: 2017-10-09 12:35:00 Z
-upload-image: "/uploads/Trichet%20Medium.png"
+upload-image: "/uploads/Bos-09de23.tif"
 homepage: 'yes'
 ---
 
