@@ -1,5 +1,5 @@
 ---
-title: NEW WORK On Day Eight
+title: 'work in progress: On Day Eight'
 date: 2017-10-09 12:35:00 Z
 tags:
 - financial crisis
