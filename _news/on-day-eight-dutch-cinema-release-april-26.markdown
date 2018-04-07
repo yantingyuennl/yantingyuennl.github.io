@@ -8,8 +8,8 @@ tags:
 - fortis
 - abn amro
 upload-image: "/uploads/ONLINE.jpg"
-homepage: 'yes'
 vimeo: 263115183
+homepage: 'yes'
 ---
 
 We have a trailer!
