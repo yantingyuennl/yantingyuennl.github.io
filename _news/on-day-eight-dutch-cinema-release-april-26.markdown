@@ -7,7 +7,7 @@ tags:
 - financial crisis
 - fortis
 - abn amro
-upload-image: "/uploads/DeAchtsteDag_cover_logos_FLAT.png"
+upload-image: "/uploads/ONLINE.jpg"
 vimeo: 263115183
 homepage: 'yes'
 ---
