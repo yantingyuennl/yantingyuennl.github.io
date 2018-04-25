@@ -1,7 +1,14 @@
 ---
 layout: page
 ---
+ {% if page.vimeo == null %}
+  {{ content }}
+ {% endif %}
 
-    {{ content }}
-
+{% if page.vimeo %}
+      <iframe class="vimeo" src="https://player.vimeo.com/video/{{page.vimeo}}" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+ {% endif %}
+ {% if page.vimeo %}
+  {{ content }}
+ {% endif %}
     <aside>Posted on {{ page.date | date_to_string}} by {{page.author}}</aside><hr />
