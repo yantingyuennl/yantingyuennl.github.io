@@ -43,6 +43,15 @@ body {
   max-width:720px;
   text-align: center;
 }
+.vimeo {
+	margin-top:5vh;
+	margin-bottom:5vh;
+	width: 720px;
+    height: 405px;
+    -webkit-transition: all 0.3s ease;
+       -moz-transition: all 0.3s ease;
+            transition: all 0.3s ease;
+}
 p {
 	line-height:1.5em;
 	text-align:left;
@@ -54,8 +63,55 @@ h2 {
 	letter-spacing:2px;
 	color:#000;
 }
+/* ---- media queries --- */
+@media (min-width: 1600px) {
+  .vimeo {
+	  width:960px;
+	  height:540px;
+  }
+}
+@media (max-width:1440px) and (min-width:1275px) {
+  .vimeo {
+	  width:720px;
+	  height:405px;
+  }
+}
+@media (max-width: 1275px) {
+  .vimeo {
+	  width:630px;
+	  height:360px;
+  }
+}
+@media (max-width: 1202px) {
+  .vimeo {
+	  width:480px;
+	  height:270px;
+  }
+}
+@media (max-width: 720px) {
+  .contents {
+	  width:72vw;
+  }
+  .vimeo {
+	  width:480px;
+	  height:270px;
+  }
+}
 @media (max-width: 640px) {
+  body {
+	  font-size:12px;
+    letter-spacing:0.03em;
+  }
+  .contents {
+	  width:72vw;
 
+  }
+  .vimeo {
+    margin-top:3vh;
+    margin-bottom:3vh;
+	  width:240px;
+	  height:135px;
+  }
   h2 {
     font-size:14px;
   }

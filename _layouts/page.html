@@ -7,8 +7,10 @@ layout: default
 <section class="container animated fadeIn">
   <div class="contents">
     <h2> {{page.title}} <i class="chinese">{{ page.title-chinese }}</i></h2>
+    {% if page.vimeo == null %}
     {% if page.upload-image %}
     <img src="{{page.upload-image}}" alt="{{page.image-description}}"/>
+    {% endif %}
     {% endif %}
     {{ content }}
 
