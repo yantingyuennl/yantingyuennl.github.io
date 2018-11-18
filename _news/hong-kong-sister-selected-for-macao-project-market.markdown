@@ -1,6 +1,7 @@
 ---
 title: Hong Kong Sister selected for Macao Project Market
 date: 2018-11-18 20:18:00 Z
+upload-image: "/uploads/iu.jpeg"
 Field name: 
 home page: 'yes'
 ---
