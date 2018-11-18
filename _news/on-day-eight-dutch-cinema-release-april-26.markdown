@@ -9,6 +9,8 @@ tags:
 - abn amro
 upload-image: "/uploads/deachtstedag.jpg"
 vimeo: 265987984
+home page:
+  'yes': 
 ---
 
 We have a trailer!
