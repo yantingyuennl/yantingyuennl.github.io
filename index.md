@@ -17,4 +17,3 @@ contact-left: 68
 layout: main
 ---
 
-Dit is een blog
