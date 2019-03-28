@@ -1,6 +1,7 @@
 ---
 title: "'De Achtste Dag', nominated for the highly acclaimed journalistic prize."
 date: 2019-03-25 09:16:00 Z
+upload-image: "/uploads/deachtstedag.jpg"
 homepage: 'yes'
 ---
 
