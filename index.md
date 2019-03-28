@@ -3,7 +3,7 @@ title: Home
 bio-image: "/uploads/58862774ba9cf2272a65b016.jpg"
 contact-image: "/uploads/1000px-Red_star.svg.png"
 work-size: 18
-work-top: 15
+work-top: 16
 work-left: 70
 blog-size: 28
 blog-top: 20
