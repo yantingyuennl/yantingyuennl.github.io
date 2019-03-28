@@ -1,5 +1,5 @@
 ---
-title: De Achtste Dag nominated for the  highly acclaimed journalistic award, De Tegel
+title: De Achtste Dag nominated for highly acclaimed journalistic award
 date: 2019-03-25 09:21:00 Z
 ---
 
