@@ -8,7 +8,7 @@ tags:
 - journalistic
 - award
 upload-image: "/uploads/deachtstedag.jpg"
-home page: 'yes'
+homepage: 'yes'
 ---
 
 [De Achtste Dag](https://www.2doc.nl/documentaires/series/2doc/2018/september/de-achtste-dag.html) has WON 'de Tegel', the highly acclaimed award for best journalistic work of 2018! We are so immensely honored and proud.
