@@ -2,7 +2,7 @@
 title: documentary film maker
 date: 2017-01-12 20:37:00 Z
 permalink: "/bio/"
-upload-image: "/uploads/58862774ba9cf2272a65b016.jpg"
+upload-image: "/uploads/IMGL5499.jpg"
 img-alt: Yan Ting Yuen
 Chinese characters: 導演
 layout: page
