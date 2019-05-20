@@ -9,7 +9,7 @@ blog-size: 28
 blog-top: 20
 blog-left: 36
 bio-top: 50
-bio-left: 10
+bio-left: 14
 contact-size: 12
 bio-size: 12
 contact-top: 68
