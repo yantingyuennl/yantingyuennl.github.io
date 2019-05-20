@@ -8,7 +8,7 @@ work-left: 70
 blog-size: 28
 blog-top: 20
 blog-left: 36
-bio-top: 36
+bio-top: 40
 bio-left: 10
 contact-size: 12
 bio-size: 12
