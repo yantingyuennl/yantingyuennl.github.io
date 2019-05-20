@@ -1,7 +1,7 @@
 ---
 title: Home
 bio-image: "/uploads/IMGL5499.jpg"
-contact-image: "/uploads/SEAL%20NAME.jpg"
+contact-image: "/uploads/1000px-Red_star.svg.png"
 work-size: 18
 work-top: 16
 work-left: 70
