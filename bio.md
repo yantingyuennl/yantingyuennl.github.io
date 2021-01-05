@@ -9,3 +9,5 @@ layout: page
 ---
 
 Yan Ting is an award winning documentary filmmaker, specialized in hybrid forms of filmmaking. Her films have been aired by national and international television channels, and have among others premiered and screened at Sundance Filmfestival, Le Fifa in Montreal, IDFA, IFFR, Melbourne Filmfestival. 
+
+Yan Ting is also co-founder of the documentary collective Docmakers consisting of 5 female film makers based in Amsterdam, The Netherlands. 
