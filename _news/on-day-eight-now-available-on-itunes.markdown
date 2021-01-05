@@ -1,5 +1,5 @@
 ---
-title: On Day Eight now available on iTunes
+title: On Day eight
 date: 2020-06-25 14:28:00 Z
 tags:
 - financial crisis
@@ -17,4 +17,3 @@ homepage:
   Key: 
 ---
 
-Missed On Day Eight? no worries, now available on Itunes! 
