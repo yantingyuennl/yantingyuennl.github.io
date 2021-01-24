@@ -8,6 +8,8 @@ Chinese characters: 導演
 layout: page
 ---
 
-Yan Ting is an award winning documentary filmmaker, specialized in hybrid forms of filmmaking. Her films have been aired by national and international television channels, and have among others premiered and screened at Sundance Filmfestival, Le Fifa in Montreal, IDFA, IFFR, Melbourne Filmfestival. 
+Yan Ting is a Chinese-Dutch filmmaker and screenwriter, originally from Hong Kong, based in Amsterdam. She is an award winning documentary filmmaker, specialized in hybrid forms of filmmaking. Her films have been aired by national and international television channels, and have among others premiered and screened at Sundance Filmfestival, Le Fifa in Montreal, IDFA, IFFR, Melbourne Filmfestival. 
 
 Yan Ting is also co-founder of the documentary collective DOCMAKERS, 6 female film makers based in Amsterdam, The Netherlands. 
+
+works as advisor for several film funds and advises for and in intercultural productions. 
