@@ -12,4 +12,4 @@ Yan Ting is a Chinese-Dutch filmmaker and screenwriter, originally from Hong Kon
 
 Yan Ting is co-founder of the documentary collective DOCMAKERS, 6 female film makers based in Amsterdam, The Netherlands. 
 
-She also works as advisor for several film funds and serves as advisor for intercultural productions. 
+She also works as advisor for several film funds and serves as advisor for intercultural productions or projects. 
